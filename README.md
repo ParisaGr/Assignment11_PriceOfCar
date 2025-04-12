@@ -1,9 +1,9 @@
 # Assignment11_PriceOfCar
 
-Objective:
+##Objective:
 •	The dataset contained information on 3 million used cars is taken from Kaggle. The dataset contains information on 426K cars. The goal of the analysis is to understand what factors make a car more or less expensive, and to provide recommendations to the client—a used car dealership—as to what consumers value in a used car.
 
-The code includes:
+##The code includes:
 •	Load and clean the data
 •	Create visualizations
 •	Train three different models
@@ -11,13 +11,13 @@ The code includes:
 •	Display feature importance
 •	Provide summary statistics
 
-The output includes:
+##The output includes:
 •	Visualizations of key relationships
 •	Performance metrics for each model
 •	Feature importance rankings
 •	Summary statistics of the dataset
 
-Analysis to share with client—a used car dealership— as to what consumers value in a used car includes:
+##Analysis to share with client—a used car dealership— as to what consumers value in a used car includes:
 
 Vehicle Age and Condition
 •	Newer vehicles have higher prices
@@ -34,5 +34,5 @@ Brand Value and Type
 •	Japanese brands maintain steady resale values
 •	American brands offer good value for price-conscious buyers
 
-Next Steps for Implementation:
+##Next Steps for Implementation:
 •	Regular market analysis to stay current with pricing trends
