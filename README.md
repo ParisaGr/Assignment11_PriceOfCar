@@ -34,3 +34,6 @@ Brand Value and Type:
 
 ## Next Steps for Implementation:
 Perform egular market analysis to stay current with pricing trends.
+
+## Instruction:
+Open the file called "Project2c.ipynb"
