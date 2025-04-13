@@ -1,6 +1,6 @@
 # Assignment11_PriceOfCar
 ## Objective:
-The dataset contained information on 3 million used cars is taken from Kaggle. The dataset contains information on 426K cars. The goal of the analysis is to understand what factors make a car more or less expensive, and to provide recommendations to the client—a used car dealership—as to what consumers value in a used car.
+The dataset contained information on 3 million used cars is taken from Kaggle. The dataset contains information on 426K cars. The goal of the analysis is to understand what factors make a car more or less expensive, and to provide recommendations to the client—a used car dealership—as to what consumers value in a used car. The dataset is called "practical_application_II_starter (2).zip"
 
 ## The code includes:
 - Load and clean the data
