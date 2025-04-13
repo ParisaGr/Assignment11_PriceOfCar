@@ -33,7 +33,7 @@ Brand Value and Type:
 - American brands offer good value for price-conscious buyers
 
 ## Next Steps for Implementation:
-Perform egular market analysis to stay current with pricing trends.
+Perform regular market analysis to stay current with pricing trends.
 
 ## Instruction:
 Open the file called "Project2c.ipynb"
